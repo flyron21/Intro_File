@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jayesh Junghare.
-- 👀 I’m interested in coding and electronics and design and personal finance and basically almost everything.
-- 🌱 I’m currently learning E&ECE at IIT KGP.
+- 👋 Hi, I’m Jayesh Junghare
+- 👀 I’m interested in coding and electronics and design and personal finance and basically almost everything
+- 🌱 I’m currently learning E&ECE at IIT KGP
 - 📫 How to reach me : WORK HARD, you will surely find a way out.
 
 <!---
